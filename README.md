@@ -57,14 +57,14 @@ DSSCollegeWebsite/
 ├─ academics.html  
 ├─ contact.html  
 ├─ Assets/  
-│   ├─ css/  
-│   │   └─ style.css  
-│   └─ Images/  
-│       ├─ D_S_Senanayake_Logo.png  
-│       ├─ gallery_1.jpg  
-│       ├─ gallery_2.jpg  
-│       ├─ gallery_3.jpg  
-│       └─ school_banner.jpg  
+│     ├─ css/  
+│     │     └─ style.css  
+│     └─ Images/  
+│         ├─ D_S_Senanayake_Logo.png  
+│         ├─ gallery_1.jpg  
+│         ├─ gallery_2.jpg  
+│         ├─ gallery_3.jpg  
+│         └─ school_banner.jpg  
 └─ README.md  
 
 
